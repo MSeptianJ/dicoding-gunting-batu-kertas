@@ -14,4 +14,5 @@ Model ini menggunakan metode CNN dalam pembuatannya
 
 ## Hasil
 
-Berikut adalah contoh hasil dari prediksi model
+Hasil dari model ini kurang memuaskan dikarenakan dapat mendeteksi dengan benar jika gambar input memiliki background hijau dan jika gambar input tidak memiliki background hijau, model susah mendeteksi bentuk tangan.  
+Hal ini dikarenakan dataset yang kurang bagus, dimana seluruh dataset memiliki background berwarna hijau mengakibatkan model hanya bisa mendeteksi bentuk tangan dengan background hijau.
