@@ -30,6 +30,20 @@ Model ini menggunakan metode CNN dalam pembuatannya
 Hasil dari model ini kurang memuaskan dikarenakan dapat mendeteksi dengan benar jika gambar input memiliki background hijau dan jika gambar input tidak memiliki background hijau, model susah mendeteksi bentuk tangan.  
 Hal ini dikarenakan dataset yang kurang bagus, dimana seluruh dataset memiliki background berwarna hijau mengakibatkan model hanya bisa mendeteksi bentuk tangan dengan background hijau.
 
-![Hasil Penilaian dari Dicoding](./pictures/certificate.jpg)
+<p
+  align="center"
+>
+  <img
+    src="./pictures/certificate.jpg"
+    width="500"
+  />
+</p>
 
-![Checklist ketentuan submisi](./pictures/checklist.jpg)
+<p
+  align="center"
+>
+  <img
+    src="./pictures/checklist.jpg"
+    width="300"
+  />
+</p>
